@@ -11,14 +11,15 @@ https://mhmdkbyry908-art.github.io/my-first-project/
 
 ## 📸 Project Preview
 
-![Website Preview](preview1.png)
+<p align="center">
+  <img src="preview1.png" width="48%">
+  <img src="preview2.png" width="48%">
+</p>
 
-![Website Preview](preview2.png)
-
-![Website Preview](preview3.png)
-
-![Website Preview](preview4.png)
-
+<p align="center">
+  <img src="preview3.png" width="48%">
+  <img src="preview4.png" width="48%">
+</p>
 ---
 
 ## ✨ Features
