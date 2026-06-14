@@ -11,13 +11,13 @@ https://mhmdkbyry908-art.github.io/my-first-project/
 
 ## 📸 Project Preview
 
-![Project Screenshot](screenshot.png)
+![Website Preview](preview1.png)
 
-> You can replace `screenshot.png` with an actual screenshot of your project.
-> ![Website Preview](screensot demo site.png)
-> > ![Website Preview](Screenshot demo site.png)
-> > > ![Website Preview](Screenshot demo site 2.png)
-> > > > ![Website Preview](Screenshot demo site 3.png)
+![Website Preview](preview2.png)
+
+![Website Preview](preview3.png)
+
+![Website Preview](preview4.png)
 
 ---
 
